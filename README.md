@@ -4,6 +4,8 @@
 
 <p align="center">A local-only clipboard history for macOS. Everything you copy, one keystroke away, in a drawer at the edge of your screen.</p>
 
+<p align="center"><a href="https://github.com/Patels-Labs"><img src="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/readme-mark.png" alt="" height="22" align="absmiddle"></a>&nbsp; A <a href="https://github.com/Patels-Labs"><b>Patel's Labs</b></a> project</p>
+
 Cubby lives in your menu bar. Copy anything and it's saved. Press ⇧⌘V and a glass drawer slides in from the right. Pick a clip and press Return, and it's pasted into the app you were using. The drawer never takes focus away from that app.
 
 ## Features
@@ -92,9 +94,3 @@ Copyright (C) 2026 Heet Patel
 Cubby is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 Cubby is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU General Public License](LICENSE) for more details.
-
----
-
-<p align="center">
-  <a href="https://github.com/Patels-Labs"><img alt="A Patel's Labs project" src="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/badge-light.png#gh-light-mode-only" height="40"><img alt="A Patel's Labs project" src="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/badge-dark.png#gh-dark-mode-only" height="40"></a>
-</p>
