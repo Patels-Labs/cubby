@@ -4,7 +4,7 @@
 
 <p align="center">A local-only clipboard history for macOS. Everything you copy, one keystroke away, in a drawer at the edge of your screen.</p>
 
-<p align="center"><a href="https://github.com/Patels-Labs"><img src="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/readme-mark.png" alt="" height="22" align="absmiddle"></a>&nbsp; A <a href="https://github.com/Patels-Labs"><b>Patel's Labs</b></a> project</p>
+<p align="center"><a href="https://github.com/Patels-Labs"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/badge-on-dark.png"><img alt="A Patel's Labs project" src="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/badge-on-light.png" height="40"></picture></a></p>
 
 Cubby lives in your menu bar. Copy anything and it's saved. Press ⇧⌘V and a glass drawer slides in from the right. Pick a clip and press Return, and it's pasted into the app you were using. The drawer never takes focus away from that app.
 
